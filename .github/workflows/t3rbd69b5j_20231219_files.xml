@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="0ff4b492-a7c1-4b3a-80b7-ba3398e0aac2.xlsx" source="original">
+    <mtime>1702952472</mtime>
+    <size>25089</size>
+    <md5>f8f6056df383a19c3d5ddb576d0e9968</md5>
+    <crc32>1bce2a8d</crc32>
+    <sha1>92500bc75d0db6b616dc826541f2d141c8419ff4</sha1>
+    <format>Excel</format>
+    <viruscheck>1702952865</viruscheck>
+  </file>
+  <file name="133c6f06-e353-476b-a6ae-c2b351c978f9.xlsx" source="original">
+    <mtime>1702952479</mtime>
+    <size>25089</size>
+    <md5>42c06ac3325e455651c0643deed0c8b8</md5>
+    <crc32>5e7bccea</crc32>
+    <sha1>370524de352a13d1f5f6eb5dac56a85e1255a55d</sha1>
+    <format>Excel</format>
+    <viruscheck>1702952865</viruscheck>
+  </file>
+  <file name="2c4b46fa-c00d-4f2c-b551-d32fa93640b4.xlsx" source="original">
+    <mtime>1702952451</mtime>
+    <size>14862</size>
+    <md5>c41ddfb9ed67cdcfcf89911dba287127</md5>
+    <crc32>5b5c6e6d</crc32>
+    <sha1>390b6cfc7ab482110ac7b17a33a3c09a7ee96584</sha1>
+    <format>Excel</format>
+    <viruscheck>1702952865</viruscheck>
+  </file>
+  <file name="DuckDuckGo-Brand-Logo.zip" source="original">
+    <mtime>1702952491</mtime>
+    <size>3077418</size>
+    <md5>32dd3b9aa6e7d24fa82824dd74f51670</md5>
+    <crc32>512ec621</crc32>
+    <sha1>23458afd7dbdc5b3db3e0c068ee2a2ed5d0f16f5</sha1>
+    <format>ZIP</format>
+    <filecount>82</filecount>
+    <viruscheck>1702952865</viruscheck>
+  </file>
+  <file name="Screenshot_20231219-021414.png" source="original">
+    <mtime>1702952503</mtime>
+    <size>51909</size>
+    <md5>635c87a05113cf83c06b788e1f538162</md5>
+    <crc32>d80c6d02</crc32>
+    <sha1>2f7b596c1ebcd37e4437c0272d5e64598ee37644</sha1>
+    <format>PNG</format>
+  </file>
+  <file name="Screenshot_20231219-021414_thumb.jpg" source="derivative">
+    <format>JPEG Thumb</format>
+    <original>Screenshot_20231219-021414.png</original>
+    <mtime>1702952946</mtime>
+    <size>6541</size>
+    <md5>d2980624651417742204934ffe057312</md5>
+    <crc32>32d306de</crc32>
+    <sha1>0cc8c3b52df47485bae3c92cbae9216f5c1c1a56</sha1>
+  </file>
+  <file name="WAR (file format) - Wikipedia.pdf" source="original">
+    <mtime>1702952496</mtime>
+    <size>260469</size>
+    <md5>fd86fe1aa13f374ca793d39b8e131c67</md5>
+    <crc32>1f9bc0de</crc32>
+    <sha1>4bfd0fbb3876114f81c9de9b24fc77909798570f</sha1>
+    <format>Text PDF</format>
+    <viruscheck>1702952865</viruscheck>
+  </file>
+  <file name="WAR (file format) - Wikipedia_chocr.html.gz" source="derivative">
+    <ocr>tesseract 5.3.0-6-g76ae</ocr>
+    <ocr_parameters>lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu</ocr_parameters>
+    <ocr_module_version>0.0.21</ocr_module_version>
+    <ocr_detected_script>Latin</ocr_detected_script>
+    <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+    <ocr_detected_lang>en</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>chOCR</format>
+    <original>WAR (file format) - Wikipedia_jp2.zip</original>
+    <mtime>1702953043</mtime>
+    <size>83323</size>
+    <md5>a7111f72d79e5499eb5e7c95665391d6</md5>
+    <crc32>d45cfa80</crc32>
+    <sha1>f5fe6a3a32819f99519f20ed318c625d148c802b</sha1>
+  </file>
+  <file name="WAR (file format) - Wikipedia_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>WAR (file format) - Wikipedia_djvu.xml</original>
+    <mtime>1702953223</mtime>
+    <size>5690</size>
+    <md5>c34f7c5bb3ee3662c0f07de310b185ff</md5>
+    <crc32>449202a5</crc32>
+    <sha1>565a77c514eaed915148f193ecb944edfe8c58f9</sha1>
+  </file>
+  <file name="WAR (file format) - Wikipedia_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>WAR (file format) - Wikipedia_hocr.html</original>
+    <mtime>1702953116</mtime>
+    <size>71500</size>
+    <md5>ec36e4bcb5854061e6312a3183323988</md5>
+    <crc32>1734119a</crc32>
+    <sha1>5ff7db11bee7eb6c89ff1a15560f1677b57cd6e4</sha1>
+  </file>
+  <file name="WAR (file format) - Wikipedia_hocr.html" source="derivative">
+    <hocr_char_to_word_module_version>1.2.0</hocr_char_to_word_module_version>
+    <hocr_char_to_word_hocr_version>1.1.45</hocr_char_to_word_hocr_version>
+    <ocr_parameters>lang-eng;two-pass-disabled;pass-dpi-disabled;autonomous-mode-disabled;binarisation-method-otsu</ocr_parameters>
+    <ocr_module_version>0.0.21</ocr_module_version>
+    <ocr_detected_script>Latin</ocr_detected_script>
+    <ocr_detected_script_conf>1.0000</ocr_detected_script_conf>
+    <ocr_detected_lang>en</ocr_detected_lang>
+    <ocr_detected_lang_conf>1.0000</ocr_detected_lang_conf>
+    <format>hOCR</format>
+    <original>WAR (file format) - Wikipedia_chocr.html.gz</original>
+    <mtime>1702953101</mtime>
+    <size>138627</size>
+    <md5>344de38e5a9c90b0b8b03b9ed20b5339</md5>
+    <crc32>e8af21a2</crc32>
+    <sha1>bf04b2f53f78a63e730b181d47d84262ecd1760c</sha1>
+  </file>
+  <file name="WAR (file format) - Wikipedia_hocr_pageindex.json.gz" source="derivative">
+    <hocr_pageindex_module_version>1.0.0</hocr_pageindex_module_version>
+    <hocr_pageindex_hocr_version>1.1.15</hocr_pageindex_hocr_version>
+    <format>OCR Page Index</format>
+    <original>WAR (file format) - Wikipedia_hocr.html</original>
+    <mtime>1702953150</mtime>
+    <size>177</size>
+    <md5>829ff65f8fb4b2c41bbf08a3419cd032</md5>
+    <crc32>a267ec9f</crc32>
+    <sha1>16dd635df368f9e728251fb8617a0ae990eb7013</sha1>
+  </file>
+  <file name="WAR (file format) - Wikipedia_hocr_searchtext.txt.gz" source="derivative">
+    <hocr_fts_text_module_version>1.1.0</hocr_fts_text_module_version>
+    <hocr_fts_text_hocr_version>1.1.15</hocr_fts_text_hocr_version>
+    <word_conf_0_10>11</word_conf_0_10>
+    <word_conf_11_20>4</word_conf_11_20>
+    <word_conf_21_30>5</word_conf_21_30>
+    <word_conf_31_40>5</word_conf_31_40>
+    <word_conf_41_50>4</word_conf_41_50>
+    <word_conf_51_60>12</word_conf_51_60>
+    <word_conf_61_70>11</word_conf_61_70>
+    <word_conf_71_80>3</word_conf_71_80>
+    <word_conf_81_90>56</word_conf_81_90>
+    <word_conf_91_100>609</word_conf_91_100>
+    <format>OCR Search Text</format>
+    <original>WAR (file format) - Wikipedia_hocr.html</original>
+    <mtime>1702953200</mtime>
+    <size>2517</size>
+    <md5>6cbeaf785fe8553b8b3162e31a7ebedf</md5>
+    <crc32>709bed62</crc32>
+    <sha1>099fdac64d66b296d6c4303ca0783bafe319cb06</sha1>
+  </file>
+  <file name="WAR (file format) - Wikipedia_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>WAR (file format) - Wikipedia.pdf</original>
+    <mtime>1702952943</mtime>
+    <size>3401455</size>
+    <md5>be5cc6aab6b7a47786a54c4bdb4295b0</md5>
+    <crc32>d8f04402</crc32>
+    <sha1>47f966dd2e0d3155dfc457c6e9606a33186b6d0a</sha1>
+    <filecount>14</filecount>
+  </file>
+  <file name="WAR (file format) - Wikipedia_page_numbers.json" source="derivative">
+    <hocr_pagenumber_module_version>1.0.3</hocr_pagenumber_module_version>
+    <hocr_pagenumber_hocr_version>1.1.54</hocr_pagenumber_hocr_version>
+    <hocr_pagenumber_confidence>0</hocr_pagenumber_confidence>
+    <format>Page Numbers JSON</format>
+    <original>WAR (file format) - Wikipedia_hocr.html</original>
+    <mtime>1702953374</mtime>
+    <size>2512</size>
+    <md5>c6d0a711529d5748fb0c38c0cf471d11</md5>
+    <crc32>95978db6</crc32>
+    <sha1>a57e237eeabca84dd991951085fea5ae0c9547cc</sha1>
+  </file>
+  <file name="WAR (file format) - Wikipedia_scandata.xml" source="derivative">
+    <format>Scandata</format>
+    <original>WAR (file format) - Wikipedia_djvu.xml</original>
+    <mtime>1702953374</mtime>
+    <size>4742</size>
+    <md5>aff755b4b59006ba2e425247211458e9</md5>
+    <crc32>a34cc4a0</crc32>
+    <sha1>136933c6c826ebbfcfb4b524498deca4320ef1be</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1702952537</mtime>
+    <size>16616</size>
+    <md5>a14d1903c1e1429bcfbd788fa80a8ec6</md5>
+    <crc32>4d1a3716</crc32>
+    <sha1>e913d381be594541961cb7cd497382c14f1feb4b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="t3rbd69b5j_20231219_archive.torrent" source="metadata">
+    <btih>d50d61d15dcddf6d182f32d02cd91ff577c41c86</btih>
+    <mtime>1702953444</mtime>
+    <size>5068</size>
+    <md5>a49cd3a596fa775e2401ec92411db745</md5>
+    <crc32>3e5bc843</crc32>
+    <sha1>18795bc3415d14cbaf7e9a40ad777d4a2549fb30</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="t3rbd69b5j_20231219_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e2583d84d67556a59412b13ce867793b</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="t3rbd69b5j_20231219_meta.sqlite" source="original">
+    <mtime>1702952530</mtime>
+    <size>32768</size>
+    <md5>0180e7997d71e1921ed13343696c03e3</md5>
+    <crc32>c233fbd5</crc32>
+    <sha1>c677fe6ba4271ba6a49a4dfee314cb3626bc549d</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="t3rbd69b5j_20231219_meta.xml" source="original">
+    <mtime>1702953374</mtime>
+    <size>1288</size>
+    <md5>fd649e4905046eb6fb91b862ed898147</md5>
+    <crc32>5ae4dfd2</crc32>
+    <sha1>58419e6b5b436bf131e9e1ddf05866c0d6775a27</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
