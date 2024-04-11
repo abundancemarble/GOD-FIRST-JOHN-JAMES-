@@ -1,0 +1,319 @@
+WIKIPEDIA 
+
+
+WAR (file format) 
+
+
+In software engineering, a WAR file (Web 
+
+
+Application Resource!!! or Web application 
+ARchivel2!) is a file used to distribute a 
+collection of JAR-files, JavaServer Pages, 
+
+
+Java Servlets, Java classes, XML files, tag 
+
+
+libraries, static web pages (HTML and 
+related files) and other resources that 
+
+
+together constitute a web application. 
+
+
+Content and Web ARchive 
+
+
+structure Filename  .war 
+extension 
+Internet applicat 
+A WAR file may be media type archive 
+the same way as a number (standard Z 
+JAR file in order to file) 
+allow others to Developed by Sun 
+Micro 
+determine where the 
+Container for JSP 
+source code came aia 
+from. Servle 
+Extended from JAR 
+
+
+There are special 
+files and directories within a WAR file: 
+
+
+e The /WEB-INF directory in the WAR file 
+contains a file named web.xml which 
+defines the structure of the web 
+application. If the web application is 
+only serving JSP files, the web.xml file is 
+not strictly necessary. If the web 
+application uses servlets, then the 
+servlet container uses web.xml to 
+ascertain to which servlet a URL request 
+will be routed. The web.xml file is also 
+used to define context variables which 
+can be referenced within the servlets 
+and it is used to define environmental 
+dependencies which the deployer is 
+expected to set up. An example of this is 
+a dependency on a mail session used to 
+
+
+send email. The servlet container is 
+responsible for providing this service. 
+
+
+Advantages of WAR files 
+
+
+e Easy testing and deployment of web 
+applications 
+
+e Easy identification of the version of the 
+deployed application 
+
+e All Java EE containers support WAR 
+files 
+
+e MVC structure supports WAR files. 
+
+Assuming production environments do not 
+
+
+promote a fix without sufficient testing 
+prior to deployment, a WAR file has a 
+
+
+distinct advantage when properties files 
+are used to identify environment specific 
+variables. For example, an LDAP server in 
+a testing environment may be something 
+like 
+
+ldaps://testauth.example.com:6 
+36 . The LDAP server in a production 
+environment is 
+
+ldaps://auth.example.com: 636 . 
+An external properties file would define the 
+link with some thing like: 
+
+
+LINKED_PAGE=l1daps://testaut 
+
+
+h.example.com: 636 
+
+
+The source code reads the property file to 
+determine the target LDAP server. In this 
+way, developers can be certain that the 
+WAR file tested and verified is exactly the 
+same as that which is being promoted to 
+production. 
+
+
+Disadvantages of WAR files 
+
+
+Some consider web deployment using 
+WAR files to be disadvantageous when 
+minor changes to source code are required 
+for dynamic environments. Each change to 
+source code must be repackaged and 
+deployed in development.!2! This does not 
+
+
+require stopping the web server if 
+configured for runtime deployment.!4! 
+
+
+Example 
+
+
+The following sample web.xmI! file 
+demonstrates the declaration and 
+
+
+association of a servlet: 
+
+
+“(xi wersion=” 10° 
+enoodiang="UlE=o" 7S 
+<!DOCTYPE web-app 
+
+PUBLIC: “*=77/5un 
+Microsystems, Inc.//DID Web 
+ADDIICatLioOn 2.4/7 il” 
+
+
+ Dttes J /lave<eum.com/ |26e,; ca 
+LOSs/web=a2pp.4-4.0La" > 
+
+
+<web-app> 
+<servlet> 
+
+<servliet- 
+name>HelloServlet</servlet- 
+name> 
+
+<servliet- 
+class>mypackage.HelloServle 
+t</servlet-class> 
+
+
+</servlet> 
+
+
+<servlet-mapping> 
+<serviet- 
+
+
+name>HelloServlet</servlet- 
+
+
+name> 
+
+<url- 
+pattern>/HelloServlet</url- 
+pattern> 
+
+
+</servlet-mapping> 
+
+
+<resource-ref> 
+<description> 
+Resource 
+reference to a factory for 
+jJavax.mail.Session 
+instances that 
+may be used for sending 
+electronic mail messages, 
+preconfigured 
+
+
+to connect to the 
+
+
+appropriate oOMTP server. 
+
+</description> 
+
+<res-ref- 
+name>mail/Session</res-ref- 
+name> 
+
+<res- 
+type>javax.mail.Session</re 
+s-type> 
+
+<res- 
+auth>Container</res-auth> 
+
+</resource-ref> 
+
+
+</web-app> 
+
+
+The /WEB-INF/classes_ directory is 
+
+
+on the ClassLoader's classpath. (The 
+
+
+classpath consists of a list of locations 
+
+
+from which .class_ files can be loaded 
+and executed by the JVM.) The /WEB- 
+INF/classes_ directory contains the 
+classes associated with the web 
+application itself. 
+
+
+Any JAR files placed inthe /WEB- 
+INF/1ib directory will also be placed on 
+
+
+the ClassLoader'ss classpath. 
+
+
+See also 
+
+
+e EAR (file format) 
+e JAR (file format) 
+
+
+References 
+
+
+1. Crossley, Allistair. ‘Apache Tomcat 8 
+(8.0.44) - Tomcat Web Application 
+Deployment" (https://tomcat.apache.org/to 
+mcat-8.0-doc/deployer-howto.html) . 
+Apache Software Foundation. Retrieved 
+2017-06-27. 
+
+
+2. Hunter, Jason (1999-10-15). "What's New in 
+Java Servlet API 2.2?" (https://www.infowor 
+Id.com/article/2076518/what-s-new-in-java 
+-servlet-api-2-2-.html) . JavaWorld. 
+Retrieved 2020-11-08. 
+
+3. "Web Application Lifecycle" (https://docs.or 
+
+
+acle.com/javaee/6/tutorial/doc/bnadu.htm 
+|) . The Java EE 6 Tutorial. Oracle. 
+
+
+4. "Deploying on a running Tomcat server" (htt 
+ps://tomcat.apache.org/tomcat-6.0-doc/de 
+ployer-howto.html#Deploying_on_a_running 
+_Tomcat_server) . Apache Software 
+
+
+Foundation. 
+
+
+External links 
+
+
+e Packaging Web Archives (https://eclipse 
+-ee4j.github.io/jakartaee-tutorial/packag 
+ing003.htmlI#BCGHAHGD) Archived (htt 
+ps://web.archive.org/web/20201 106084 
+953/https://eclipse-ee4j.github.io/jakart 
+aee-tutorial/packaging003.htmlI#BCGHA 
+HGD) 2020-11-06 at the Wayback 
+Machine (The Jakarta EE 8 Tutorial) 
+
+
+e JSR 154: JavalM Servlet 2.4 
+Specification (https://jcp.org/en/jsr/det 
+ail?id=154) 
+
+
+Retrieved from 
+
+
+title=WAR_(file_format)&oldid=1176103995" 
+
+
+WIKIPEDIA 
+This page was last edited on 19 September 2023, 
+
+
+at 14:08 (UTC). = 
+Content is available under CC BY-SA 4.0 unless 
+otherwise noted. 
+
+
