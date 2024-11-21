@@ -1,0 +1,13 @@
+{
+    "name": "mark",
+    "description": "The Gospel of Jesus Christ according to Mark",
+    "version": "0.1.0",
+    "dependencies": {
+        "jsdom": "^16.5.1"
+    },
+    "license": "AGPL-3.0-or-later",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ivandustin/mark"
+    }
+}

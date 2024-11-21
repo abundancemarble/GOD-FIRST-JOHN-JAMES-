@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Rating Prediction Result</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" rel="stylesheet" />
+    <style>
+        body {
+            background-image: url('https://wallpapercave.com/wp/wp4511654.jpg'); /* Replace with your background image */
+            background-size: cover;
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            overflow: hidden; /* Hide overflow to prevent scrollbars */
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.3); /* Adjust opacity for the frosted glass effect */
+            backdrop-filter: blur(10px); /* Apply blur for frosted glass */
+            border-radius: 10px;
+            padding: 40px;
+            max-width: 400px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            font-size: 24px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+            font-size: 18px;
+            color: #333;
+        }
+
+        .preview-sentence {
+            font-size: 18px;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        .predicted-rating {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            color: #f7941e;
+        }
+
+        .error-message {
+            font-size: 18px;
+            color: #ff0000;
+        }
+
+        .back-button {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        a.back-link {
+            text-decoration: none;
+            background-color: #f7941e;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 18px;
+            transition: background-color 0.3s ease;
+        }
+
+        a.back-link:hover {
+            background-color: #ffad33;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Cartoon Movie Rating Prediction Result</h1>
+
+        <!-- Display the user input preview sentence by retrieving values from localStorage -->
+        <div class="preview-sentence">
+            You selected: In <span id="country-preview"></span> country, a <span id="duration-preview"></span>-minute movie in the <span id="listedin-preview"></span> genre with <span id="animation-style-preview"></span> animation style for <span id="target-audience-preview"></span> audience.
+        </div>
+
+        <!-- Display the predicted rating -->
+        <div class="predicted-rating">
+            Predicted Rating: <span id="rating-value"></span>
+        </div>
+
+        <!-- Display error message if any -->
+        <div class="error-message" id="error-message">
+            <!-- Error message will be displayed here -->
+        </div>
+
+        <!-- Back to Home button -->
+        <div class="back-button">
+            <a class="back-link" href="/">Back to Home</a>
+        </div>
+    </div>
+
+    <script>
+        // Retrieve values from localStorage and display them in the preview sentence
+        document.getElementById("country-preview").textContent = localStorage.getItem("country");
+        document.getElementById("duration-preview").textContent = localStorage.getItem("duration");
+        document.getElementById("listedin-preview").textContent = localStorage.getItem("listedin");
+        document.getElementById("animation-style-preview").textContent = localStorage.getItem("animationStyle");
+        document.getElementById("target-audience-preview").textContent = localStorage.getItem("targetAudience");
+    
+        // Display the predicted rating if available
+        var predictedRating = parseFloat('{{ predicted_rating }}');
+        if (!isNaN(predictedRating)) {
+            document.getElementById("rating-value").textContent = predictedRating.toFixed(2);
+        } else {
+            // Display an error message if predicted rating is not available
+            document.getElementById("error-message").textContent = "No prediction available.";
+        }
+    </script>
+    
+</body>
+</html>
