@@ -1,0 +1,812 @@
+{
+  "Attachments": true,
+  "XP": {
+    "xp": {
+      "docsId": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+      "totalXp": 2400,
+      "currentLevel": 2,
+      "currentLevelLow": 1800,
+      "currentLevelHigh": 4299,
+      "currentLevelPointsEarned": 600,
+      "nextLevel": 3,
+      "pointsUntilNextLevel": 1900,
+      "achievementCategories": {
+        "Unknown": 0,
+        "Modules": 0,
+        "Courses": 0,
+        "Qna": 0,
+        "Challenges": 0,
+        "Events": 0,
+        "LearningPaths": 0,
+        "Plans": 0,
+        "Special": 0
+      }
+    },
+    "achievements": []
+  },
+  "Q&A": {
+    "docsId": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+    "questions": [],
+    "answers": [],
+    "comments": []
+  },
+  "Progress": {
+    "completedLearningItems": [
+      {
+        "title": "learn.wwl.configure-microsoft-365-experience.introduction",
+        "type": "unit",
+        "completedAt": "2025-02-08T03:55:56.7743943Z"
+      },
+      {
+        "title": "learn.wwl.configure-microsoft-365-experience.explore-your-microsoft-365-cloud-environment",
+        "type": "unit",
+        "completedAt": "2025-02-08T03:55:56.917989Z"
+      },
+      {
+        "title": "learn.wwl.configure-microsoft-365-experience.configure-organizational-profile-microsoft-365",
+        "type": "unit",
+        "completedAt": "2025-02-08T03:55:57.0857953Z"
+      },
+      {
+        "title": "learn.wwl.configure-microsoft-365-experience.manage-tenant-subscriptions-microsoft-365",
+        "type": "unit",
+        "completedAt": "2025-02-08T03:56:05.4702921Z"
+      },
+      {
+        "title": "learn-dynamics.use-services-model-driven-apps.document-management-options",
+        "type": "unit",
+        "completedAt": "2025-02-08T03:56:42.8779425Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.introduction",
+        "type": "unit",
+        "completedAt": "2023-11-18T18:10:00.3412826Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.describe-factors-affect-costs-azure",
+        "type": "unit",
+        "completedAt": "2023-11-18T18:12:39.0063129Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.compare-pricing-total-cost-of-ownership-calculators",
+        "type": "unit",
+        "completedAt": "2024-01-22T12:05:42.5671459Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.exercise-estimate-workload-costs-use-pricing-calculator",
+        "type": "unit",
+        "completedAt": "2024-01-22T12:06:00.5931834Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.exercise-compare-workload-costs-use-total-cost-ownership-calculator",
+        "type": "unit",
+        "completedAt": "2024-01-22T12:06:20.1018897Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.describe-azure-tool",
+        "type": "unit",
+        "completedAt": "2024-01-22T12:06:23.6535404Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.summary",
+        "type": "unit",
+        "completedAt": "2024-01-22T12:06:51.6063618Z"
+      },
+      {
+        "title": "learn.wwl.describe-cost-management-azure.describe-purpose-of-tags",
+        "type": "unit",
+        "completedAt": "2024-01-22T12:08:23.1049041Z"
+      },
+      {
+        "title": "learn.azure-well-architected-cost-optimization.1-introduction",
+        "type": "unit",
+        "completedAt": "2024-01-22T12:07:55.4466364Z"
+      },
+      {
+        "title": "learn.azure-well-architected-cost-optimization.design-for-usage-optimization",
+        "type": "unit",
+        "completedAt": "2024-01-22T12:09:35.3256849Z"
+      },
+      {
+        "title": "learn.azure-well-architected-cost-optimization.monitor-and-optimize-over-time",
+        "type": "unit",
+        "completedAt": "2024-01-22T12:10:37.0881528Z"
+      },
+      {
+        "title": "learn.azure-well-architected-cost-optimization.6-summary",
+        "type": "unit",
+        "completedAt": "2024-01-22T12:10:44.9386423Z"
+      }
+    ]
+  },
+  "NextSteps": {
+    "docsId": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+    "dismissals": [],
+    "enrollments": [
+      {
+        "id": "ea6a18bd-dd33-4e8e-af37-0910efccf01a",
+        "partitionKey": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+        "sourceType": "learningpath",
+        "sourceId": "learn.wwl.describe-azure-management-governance",
+        "_ts": 1700331000
+      },
+      {
+        "id": "ec495af0-c0ff-4fba-b3f4-ab81c810b22d",
+        "partitionKey": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+        "sourceType": "learningpath",
+        "sourceId": "learn.control-spending-manage-bills",
+        "_ts": 1705925275
+      }
+    ]
+  },
+  "SkillAssessment": null,
+  "VerifiableCredentials": {
+    "docsId": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+    "userCredentials": []
+  },
+  "Lists": {
+    "userId": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+    "lists": [
+      {
+        "id": "m63db6r65dqk82",
+        "userId": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+        "name": "GOD FIRST JOHN JAMES's Collection 3",
+        "description": "Thank you JESUS CHRIST",
+        "type": "collection",
+        "lastModified": "2024-01-22T12:13:21+00:00",
+        "totalItems": 7,
+        "items": [
+          {
+            "id": "m63db6r65dqk82_docs-5B1F4709D40E64B7E8DC8EACD1DDDB9C",
+            "listId": "m63db6r65dqk82",
+            "type": "docs",
+            "data": {
+              "url": "/training/modules/describe-monitoring-tools-azure/",
+              "rawUrl": "https://learn.microsoft.com/en-us/training/modules/describe-monitoring-tools-azure/",
+              "title": "Describe monitoring tools in Azure - Training",
+              "docId": "c614f7c6-6eb1-b5ac-6bc9-b245be3b6936",
+              "docVIId": "58fe6fa7-60b5-e17e-3c99-d0a70b21e528",
+              "pageType": "learn",
+              "pageKind": "module",
+              "uid": "learn.wwl.describe-monitoring-tools-azure",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2023-11-18T18:12:25+00:00"
+          },
+          {
+            "id": "m63db6r65dqk82_docs-753F79F06B90262CD4269D770D8E406A",
+            "listId": "m63db6r65dqk82",
+            "type": "docs",
+            "data": {
+              "url": "/training/modules/describe-cost-management-azure/",
+              "rawUrl": "https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/",
+              "title": "Describe cost management in Azure - Training",
+              "docId": "d5529b0b-6458-52d8-19b1-858c5a61d05e",
+              "docVIId": "c9db2cb3-4d4b-46b9-e9d3-5c2dcf387fbf",
+              "pageType": "learn",
+              "pageKind": "module",
+              "uid": "learn.wwl.describe-cost-management-azure",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2024-01-22T12:05:27+00:00"
+          },
+          {
+            "id": "m63db6r65dqk82_docs-2C99474F35D0EB59DEAE492734C2D2E7",
+            "listId": "m63db6r65dqk82",
+            "type": "docs",
+            "data": {
+              "url": "/assessments/azure-architecture-review/",
+              "rawUrl": "https://learn.microsoft.com/en-us/assessments/azure-architecture-review/",
+              "title": "Assessments | Azure Well-Architected Review",
+              "docId": "",
+              "docVIId": "",
+              "pageType": "",
+              "pageKind": "",
+              "uid": "",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2024-01-22T12:12:27+00:00"
+          },
+          {
+            "id": "m63db6r65dqk82_docs-693D96387BAB36D6A1582625749F9CB2",
+            "listId": "m63db6r65dqk82",
+            "type": "docs",
+            "data": {
+              "url": "/assessments/a597e375-3ebd-4dc7-8dd9-6d8f75a7ca70/",
+              "rawUrl": "https://learn.microsoft.com/en-us/assessments/a597e375-3ebd-4dc7-8dd9-6d8f75a7ca70/",
+              "title": "Assessments | Microsoft Cloud for Healthcare Learner Self-Assessment (Preview)",
+              "docId": "",
+              "docVIId": "",
+              "pageType": "",
+              "pageKind": "",
+              "uid": "",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2024-01-22T12:12:39+00:00"
+          },
+          {
+            "id": "m63db6r65dqk82_docs-0440239ED2608DAF4BDD79C7C20874E4",
+            "listId": "m63db6r65dqk82",
+            "type": "docs",
+            "data": {
+              "url": "/assessments/33a8d18b-7299-4808-95eb-ec1ac1eca4d9/",
+              "rawUrl": "https://learn.microsoft.com/en-us/assessments/33a8d18b-7299-4808-95eb-ec1ac1eca4d9/",
+              "title": "Assessments | AI Engineer Skill Assessment ",
+              "docId": "",
+              "docVIId": "",
+              "pageType": "",
+              "pageKind": "",
+              "uid": "",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2024-01-22T12:12:58+00:00"
+          },
+          {
+            "id": "m63db6r65dqk82_docs-70FE43034BE35FBC5BD3A7DEB47C6BDC",
+            "listId": "m63db6r65dqk82",
+            "type": "docs",
+            "data": {
+              "url": "/assessments/5eaa8702-ebdb-44cf-8b40-17c3f3b63330/",
+              "rawUrl": "https://learn.microsoft.com/en-us/assessments/5eaa8702-ebdb-44cf-8b40-17c3f3b63330/",
+              "title": "Assessments | Analytics | Well-Architected Review",
+              "docId": "",
+              "docVIId": "",
+              "pageType": "",
+              "pageKind": "",
+              "uid": "",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2024-01-22T12:13:11+00:00"
+          },
+          {
+            "id": "m63db6r65dqk82_docs-1A089AEC572BDED52C00EFA6DD2C93DE",
+            "listId": "m63db6r65dqk82",
+            "type": "docs",
+            "data": {
+              "url": "/assessments/c7c36e71-70a1-463d-a0c9-2155692f9fca/",
+              "rawUrl": "https://learn.microsoft.com/en-us/assessments/c7c36e71-70a1-463d-a0c9-2155692f9fca/",
+              "title": "Assessments | Analytics Journey Tracker",
+              "docId": "",
+              "docVIId": "",
+              "pageType": "",
+              "pageKind": "",
+              "uid": "",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2024-01-22T12:13:21+00:00"
+          }
+        ],
+        "itemCount": 7,
+        "sections": [],
+        "sectionCount": 0,
+        "isPrivate": true,
+        "isOfficial": false,
+        "shouldLocalize": false,
+        "isLocalized": false,
+        "isFallbackLocale": false,
+        "showUserDisplayName": false,
+        "moduleCount": 0,
+        "completedModuleCount": 0,
+        "remainingDuration": 0,
+        "totalDuration": 0
+      },
+      {
+        "id": "4x5psreokm4wwz",
+        "userId": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+        "name": "GOD FIRST JOHN JAMES's Collection 2",
+        "description": "Thank you JESUS CHRIST SON OF LIVING GOD",
+        "type": "collection",
+        "lastModified": "2024-01-22T12:13:21+00:00",
+        "totalItems": 9,
+        "items": [
+          {
+            "id": "4x5psreokm4wwz_docs-94552943C5B06DBF485FD7AA34C5D342",
+            "listId": "4x5psreokm4wwz",
+            "type": "docs",
+            "data": {
+              "url": "/credentials/certifications/exams/sc-400/",
+              "rawUrl": "https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-400/",
+              "title": "Exam SC-400: Administering Information Protection and Compliance in Microsoft 365 - Certifications",
+              "docId": "67637cf2-d64d-0638-a850-8ca989e11279",
+              "docVIId": "67637cf2-d64d-0638-a850-8ca989e11279",
+              "pageType": "learn",
+              "pageKind": "examination",
+              "uid": "exam.sc-400",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2023-10-06T23:33:26+00:00"
+          },
+          {
+            "id": "4x5psreokm4wwz_docs-0F954B2EC4846707130EE0244123B6E5",
+            "listId": "4x5psreokm4wwz",
+            "type": "docs",
+            "data": {
+              "url": "/training/paths/describe-azure-management-governance/",
+              "rawUrl": "https://learn.microsoft.com/en-us/training/paths/describe-azure-management-governance/",
+              "title": "Microsoft Azure Fundamentals: Describe Azure management and governance - Training",
+              "docId": "0b32a281-84d9-f210-4601-3d441119f518",
+              "docVIId": "0b32a281-84d9-f210-4601-3d441119f518",
+              "pageType": "learn",
+              "pageKind": "path",
+              "uid": "learn.wwl.describe-azure-management-governance",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2023-11-18T18:11:49+00:00"
+          },
+          {
+            "id": "4x5psreokm4wwz_docs-753F79F06B90262CD4269D770D8E406A",
+            "listId": "4x5psreokm4wwz",
+            "type": "docs",
+            "data": {
+              "url": "/training/modules/describe-cost-management-azure/",
+              "rawUrl": "https://learn.microsoft.com/en-us/training/modules/describe-cost-management-azure/",
+              "title": "Describe cost management in Azure - Training",
+              "docId": "d5529b0b-6458-52d8-19b1-858c5a61d05e",
+              "docVIId": "c9db2cb3-4d4b-46b9-e9d3-5c2dcf387fbf",
+              "pageType": "learn",
+              "pageKind": "module",
+              "uid": "learn.wwl.describe-cost-management-azure",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2023-11-18T18:11:59+00:00"
+          },
+          {
+            "id": "4x5psreokm4wwz_docs-5B1F4709D40E64B7E8DC8EACD1DDDB9C",
+            "listId": "4x5psreokm4wwz",
+            "type": "docs",
+            "data": {
+              "url": "/training/modules/describe-monitoring-tools-azure/",
+              "rawUrl": "https://learn.microsoft.com/en-us/training/modules/describe-monitoring-tools-azure/",
+              "title": "Describe monitoring tools in Azure - Training",
+              "docId": "c614f7c6-6eb1-b5ac-6bc9-b245be3b6936",
+              "docVIId": "58fe6fa7-60b5-e17e-3c99-d0a70b21e528",
+              "pageType": "learn",
+              "pageKind": "module",
+              "uid": "learn.wwl.describe-monitoring-tools-azure",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2023-11-18T18:12:24+00:00"
+          },
+          {
+            "id": "4x5psreokm4wwz_docs-2C99474F35D0EB59DEAE492734C2D2E7",
+            "listId": "4x5psreokm4wwz",
+            "type": "docs",
+            "data": {
+              "url": "/assessments/azure-architecture-review/",
+              "rawUrl": "https://learn.microsoft.com/en-us/assessments/azure-architecture-review/",
+              "title": "Assessments | Azure Well-Architected Review",
+              "docId": "",
+              "docVIId": "",
+              "pageType": "",
+              "pageKind": "",
+              "uid": "",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2024-01-22T12:12:27+00:00"
+          },
+          {
+            "id": "4x5psreokm4wwz_docs-693D96387BAB36D6A1582625749F9CB2",
+            "listId": "4x5psreokm4wwz",
+            "type": "docs",
+            "data": {
+              "url": "/assessments/a597e375-3ebd-4dc7-8dd9-6d8f75a7ca70/",
+              "rawUrl": "https://learn.microsoft.com/en-us/assessments/a597e375-3ebd-4dc7-8dd9-6d8f75a7ca70/",
+              "title": "Assessments | Microsoft Cloud for Healthcare Learner Self-Assessment (Preview)",
+              "docId": "",
+              "docVIId": "",
+              "pageType": "",
+              "pageKind": "",
+              "uid": "",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2024-01-22T12:12:39+00:00"
+          },
+          {
+            "id": "4x5psreokm4wwz_docs-0440239ED2608DAF4BDD79C7C20874E4",
+            "listId": "4x5psreokm4wwz",
+            "type": "docs",
+            "data": {
+              "url": "/assessments/33a8d18b-7299-4808-95eb-ec1ac1eca4d9/",
+              "rawUrl": "https://learn.microsoft.com/en-us/assessments/33a8d18b-7299-4808-95eb-ec1ac1eca4d9/",
+              "title": "Assessments | AI Engineer Skill Assessment ",
+              "docId": "",
+              "docVIId": "",
+              "pageType": "",
+              "pageKind": "",
+              "uid": "",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2024-01-22T12:12:59+00:00"
+          },
+          {
+            "id": "4x5psreokm4wwz_docs-70FE43034BE35FBC5BD3A7DEB47C6BDC",
+            "listId": "4x5psreokm4wwz",
+            "type": "docs",
+            "data": {
+              "url": "/assessments/5eaa8702-ebdb-44cf-8b40-17c3f3b63330/",
+              "rawUrl": "https://learn.microsoft.com/en-us/assessments/5eaa8702-ebdb-44cf-8b40-17c3f3b63330/",
+              "title": "Assessments | Analytics | Well-Architected Review",
+              "docId": "",
+              "docVIId": "",
+              "pageType": "",
+              "pageKind": "",
+              "uid": "",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2024-01-22T12:13:10+00:00"
+          },
+          {
+            "id": "4x5psreokm4wwz_docs-1A089AEC572BDED52C00EFA6DD2C93DE",
+            "listId": "4x5psreokm4wwz",
+            "type": "docs",
+            "data": {
+              "url": "/assessments/c7c36e71-70a1-463d-a0c9-2155692f9fca/",
+              "rawUrl": "https://learn.microsoft.com/en-us/assessments/c7c36e71-70a1-463d-a0c9-2155692f9fca/",
+              "title": "Assessments | Analytics Journey Tracker",
+              "docId": "",
+              "docVIId": "",
+              "pageType": "",
+              "pageKind": "",
+              "uid": "",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2024-01-22T12:13:21+00:00"
+          }
+        ],
+        "itemCount": 9,
+        "sections": [],
+        "sectionCount": 0,
+        "isPrivate": false,
+        "isOfficial": false,
+        "shouldLocalize": false,
+        "isLocalized": false,
+        "isFallbackLocale": false,
+        "showUserDisplayName": false,
+        "moduleCount": 0,
+        "completedModuleCount": 0,
+        "remainingDuration": 0,
+        "totalDuration": 0
+      },
+      {
+        "id": "bookmarks",
+        "userId": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+        "name": "Bookmarks",
+        "description": "",
+        "type": "bookmarks",
+        "lastModified": "2024-01-22T12:12:27+00:00",
+        "totalItems": 3,
+        "items": [
+          {
+            "id": "bookmarks_docs-2C99474F35D0EB59DEAE492734C2D2E7",
+            "listId": "bookmarks",
+            "type": "docs",
+            "data": {
+              "url": "/assessments/azure-architecture-review/",
+              "rawUrl": "https://learn.microsoft.com/en-us/assessments/azure-architecture-review/",
+              "title": "Assessments | Azure Well-Architected Review",
+              "docId": "",
+              "docVIId": "",
+              "pageType": "",
+              "pageKind": "",
+              "uid": "",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2024-01-22T12:12:27+00:00"
+          },
+          {
+            "id": "bookmarks_docs-5B1F4709D40E64B7E8DC8EACD1DDDB9C",
+            "listId": "bookmarks",
+            "type": "docs",
+            "data": {
+              "url": "/training/modules/describe-monitoring-tools-azure/",
+              "rawUrl": "https://learn.microsoft.com/en-us/training/modules/describe-monitoring-tools-azure/",
+              "title": "Describe monitoring tools in Azure - Training",
+              "docId": "c614f7c6-6eb1-b5ac-6bc9-b245be3b6936",
+              "docVIId": "58fe6fa7-60b5-e17e-3c99-d0a70b21e528",
+              "pageType": "learn",
+              "pageKind": "module",
+              "uid": "learn.wwl.describe-monitoring-tools-azure",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2023-11-18T18:12:24+00:00"
+          },
+          {
+            "id": "bookmarks_docs-94552943C5B06DBF485FD7AA34C5D342",
+            "listId": "bookmarks",
+            "type": "docs",
+            "data": {
+              "url": "/credentials/certifications/exams/sc-400/",
+              "rawUrl": "https://learn.microsoft.com/en-us/credentials/certifications/exams/sc-400/",
+              "title": "Exam SC-400: Administering Information Protection and Compliance in Microsoft 365 - Certifications",
+              "docId": "67637cf2-d64d-0638-a850-8ca989e11279",
+              "docVIId": "67637cf2-d64d-0638-a850-8ca989e11279",
+              "pageType": "learn",
+              "pageKind": "examination",
+              "uid": "exam.sc-400",
+              "challengeId": null,
+              "eventUid": "",
+              "durationInMillisecond": null,
+              "showId": ""
+            },
+            "lastModified": "2023-10-06T23:32:56+00:00"
+          }
+        ],
+        "itemCount": 3,
+        "sections": [],
+        "sectionCount": 0,
+        "isPrivate": false,
+        "isOfficial": false,
+        "shouldLocalize": false,
+        "isLocalized": false,
+        "isFallbackLocale": false,
+        "showUserDisplayName": false,
+        "moduleCount": 0,
+        "completedModuleCount": 0,
+        "remainingDuration": 0,
+        "totalDuration": 0
+      }
+    ],
+    "createdSkillingPlans": {
+      "userId": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+      "skillingPlanFilter": 1,
+      "skillingPlans": [],
+      "count": 0
+    },
+    "createdLearnChallenges": {
+      "userId": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+      "learnChallengeFilter": "all",
+      "challenges": [],
+      "count": 0
+    },
+    "userRegistrations": {
+      "id": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+      "registrations": [],
+      "lastModified": "2025-02-08T04:01:55+00:00"
+    }
+  },
+  "Certifications": null,
+  "TechProfile": {
+    "email": "johnjamesna@outlook.com",
+    "locale": "en-us",
+    "country": "NG",
+    "contactPointTopicSetting": "OptInExplicit",
+    "isInstructor": false,
+    "isChallengeAdmin": false,
+    "isQnaModerator": false,
+    "source": "recommendations",
+    "authenticationModes": [
+      {
+        "id": "000300005C9B2BBD",
+        "type": "MSA",
+        "tenantId": "9188040d-6c67-4c5b-b112-36a304b66dad",
+        "upn": "johnjamesna@outlook.com",
+        "oid": "00000000-0000-0000-e4d0-ed1b31d50fee",
+        "dateAcceptedPrivacyNotice": "2023-10-02T09:18:09.5394804+00:00",
+        "dateAdded": "2023-10-02T09:18:09.5394804+00:00"
+      }
+    ],
+    "transcriptSettings": {
+      "publicLink": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      },
+      "print": {
+        "showModules": true,
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "certificationSettings": {
+      "print": {
+        "showLegalName": true,
+        "showMCID": true,
+        "showContactEmail": true
+      }
+    },
+    "qnaEmailPreferences": {
+      "allEmail": true,
+      "autoFollowAsked": true,
+      "autoFollowAnswered": true,
+      "autoFollowCommented": true,
+      "autoFollowTagged": true,
+      "emailEventSettings": {
+        "newMention": "instant",
+        "newModeration": "instant",
+        "answerPosted": "instant",
+        "answerAccepted": "instant",
+        "commentPosted": "instant",
+        "newPrivateMessage": "instant",
+        "questionUpdated": "instant",
+        "questionPosted": "instant",
+        "unansweredQuestions": "daily",
+        "newFollower": "instant",
+        "answerUpdated": "instant"
+      }
+    },
+    "sharingId": "A79AF63BDA6EDB05",
+    "legalName": {
+      "first": "GOD FIRST",
+      "middle": "",
+      "last": "JOHN JAMES"
+    },
+    "userId": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+    "userName": "GODFIRSTJOHNJAMES-5091",
+    "displayName": "GOD FIRST JOHN JAMES",
+    "avatarUrl": "https://techprofile.blob.core.windows.net/images/6lYa2dDwMUmS6CF_c46PpQ.png?8DD47F",
+    "avatarThumbnailUrl": "https://techprofile.blob.core.windows.net/thumbnails/thumb_6lYa2dDwMUmS6CF_c46PpQ.png?8DD47F",
+    "isPrivate": true,
+    "affiliations": [],
+    "followerCount": 0,
+    "followingCount": 0,
+    "answersAccepted": 0,
+    "reputationPoints": 0,
+    "createdOn": "10/2/2023 9:18:09 AM"
+  },
+  "Assessments": {
+    "sessions": [
+      {
+        "assessmentId": "56ec577c-acb6-4c7b-ad13-e224b0846153",
+        "version": "20240120194744.147",
+        "branch": "main",
+        "categoriesSelected": {
+          "eeb18ef1-b3e6-49d7-9da5-d5ff90a000e8": true,
+          "9047ab21-c7fc-4954-a2b4-49d0b7a92dfd": true,
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7": true,
+          "648970e8-fa10-4b2d-af07-2d166cff3cec": true,
+          "77989738-b0b1-4e46-991e-53514b20936a": true,
+          "cc557273-fcd4-43f8-b65d-d9d2b6578942": true,
+          "be5b72e4-4842-4eb8-87c8-5e5f2e8d91d7": true,
+          "87929634-2c74-4e96-b90b-2b504ace0a88": true
+        },
+        "name": "DevOps Capability Assessment - Jan 22, 2024 - 1:13:32 PM",
+        "responses": [
+          "eeb18ef1-b3e6-49d7-9da5-d5ff90a000e8.e4a89e79-2ed4-4abd-a7ae-6532e14cf36f.4",
+          "eeb18ef1-b3e6-49d7-9da5-d5ff90a000e8.e45e3b92-b8f3-446e-9911-5a109c49dacf.4",
+          "eeb18ef1-b3e6-49d7-9da5-d5ff90a000e8.bc5e8c85-68ac-4769-a27f-3e2e654e8376.0",
+          "eeb18ef1-b3e6-49d7-9da5-d5ff90a000e8.efd6ad4b-72d7-47c1-83d6-53a5e5692ae5.1",
+          "eeb18ef1-b3e6-49d7-9da5-d5ff90a000e8.2911d995-3a3f-4945-b753-2dca8485fd1c.0",
+          "eeb18ef1-b3e6-49d7-9da5-d5ff90a000e8.14549bdc-4826-4659-8444-820d545070fc.1",
+          "eeb18ef1-b3e6-49d7-9da5-d5ff90a000e8.c540194e-30c0-435e-b26c-605913eb3f7d.4",
+          "eeb18ef1-b3e6-49d7-9da5-d5ff90a000e8.fb511188-487c-41d3-a6d1-b3b6b09b009e.2",
+          "eeb18ef1-b3e6-49d7-9da5-d5ff90a000e8.87e821e7-d6a4-4468-a91f-9565c326b229.5",
+          "eeb18ef1-b3e6-49d7-9da5-d5ff90a000e8.c5d381d3-2522-4f0a-81ec-2bd6f361674a.2",
+          "9047ab21-c7fc-4954-a2b4-49d0b7a92dfd.b0854937-5fb4-409c-8116-9e26b0cca23b.2",
+          "9047ab21-c7fc-4954-a2b4-49d0b7a92dfd.c9a3b352-76ff-43a5-ade3-04fb44ea0218.0",
+          "9047ab21-c7fc-4954-a2b4-49d0b7a92dfd.a80344d2-4eed-42b7-8b14-1ec2bae6154c.1",
+          "9047ab21-c7fc-4954-a2b4-49d0b7a92dfd.be395edd-bdf7-4f4a-b52a-2358b8ffc19c.2",
+          "9047ab21-c7fc-4954-a2b4-49d0b7a92dfd.bc953cae-eb51-4822-a11a-f2107a7f5404.3",
+          "9047ab21-c7fc-4954-a2b4-49d0b7a92dfd.8f2184bf-604e-4152-abe8-a0a0561206ed.1",
+          "9047ab21-c7fc-4954-a2b4-49d0b7a92dfd.8f2184bf-604e-4152-abe8-a0a0561206ed.4",
+          "9047ab21-c7fc-4954-a2b4-49d0b7a92dfd.117ee817-e325-4b46-a0a4-e435c01fd3bc.1",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.2de2b0b5-bf64-4137-a6a4-f59ff7257a5b.3",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.6318fa8b-4f01-430d-9726-d2a9167e2569.3",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.c1fb793a-0e9a-4ad6-a628-d4cece3d656a.1",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.c1fb793a-0e9a-4ad6-a628-d4cece3d656a.2",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.c1fb793a-0e9a-4ad6-a628-d4cece3d656a.6",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.c1fb793a-0e9a-4ad6-a628-d4cece3d656a.3",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.c1fb793a-0e9a-4ad6-a628-d4cece3d656a.5",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.c1fb793a-0e9a-4ad6-a628-d4cece3d656a.7",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.c1fb793a-0e9a-4ad6-a628-d4cece3d656a.8",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.6ddb6853-4896-4276-8dea-a0059c7cddc3.1",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.6ddb6853-4896-4276-8dea-a0059c7cddc3.3",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.6ddb6853-4896-4276-8dea-a0059c7cddc3.5",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.6ddb6853-4896-4276-8dea-a0059c7cddc3.6",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.dacd8f47-a9fb-496b-8d21-0755794da7a0.0",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.4e43d91b-5b17-4b91-b74f-088f7a3ab149.1",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.3d8c388e-e8a7-4395-a099-d7ba5f2d32ed.1",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.3d8c388e-e8a7-4395-a099-d7ba5f2d32ed.2",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.3d8c388e-e8a7-4395-a099-d7ba5f2d32ed.3",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.3d8c388e-e8a7-4395-a099-d7ba5f2d32ed.4",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.13d46ec7-9a9a-49e9-8304-e7609b8d9f11.3",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.13d46ec7-9a9a-49e9-8304-e7609b8d9f11.4",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.15c93333-5b4f-408e-9eb2-ac44b48041a2.0",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.15c93333-5b4f-408e-9eb2-ac44b48041a2.2",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.15c93333-5b4f-408e-9eb2-ac44b48041a2.1",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.15c93333-5b4f-408e-9eb2-ac44b48041a2.3",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.4135cbaa-752b-4589-9e9f-ac64e1513078.0",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.4135cbaa-752b-4589-9e9f-ac64e1513078.1",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.4135cbaa-752b-4589-9e9f-ac64e1513078.3",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.4135cbaa-752b-4589-9e9f-ac64e1513078.4",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.4135cbaa-752b-4589-9e9f-ac64e1513078.5",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.4135cbaa-752b-4589-9e9f-ac64e1513078.6",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.4135cbaa-752b-4589-9e9f-ac64e1513078.7",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.4135cbaa-752b-4589-9e9f-ac64e1513078.8",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.4135cbaa-752b-4589-9e9f-ac64e1513078.9",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.4135cbaa-752b-4589-9e9f-ac64e1513078.10",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.4135cbaa-752b-4589-9e9f-ac64e1513078.11",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.153dd352-60ef-45a0-8350-5540e8d368db.0",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.153dd352-60ef-45a0-8350-5540e8d368db.1",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.153dd352-60ef-45a0-8350-5540e8d368db.2",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.153dd352-60ef-45a0-8350-5540e8d368db.3",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.92f97686-bcd6-418a-95e6-1dc5716b5e8f.0",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.92f97686-bcd6-418a-95e6-1dc5716b5e8f.1",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.92f97686-bcd6-418a-95e6-1dc5716b5e8f.2",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.92f97686-bcd6-418a-95e6-1dc5716b5e8f.3",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.92f97686-bcd6-418a-95e6-1dc5716b5e8f.4",
+          "648970e8-fa10-4b2d-af07-2d166cff3cec.e7e83cab-f146-472a-977c-77856294351b.2",
+          "648970e8-fa10-4b2d-af07-2d166cff3cec.dd003799-92d2-49e8-8117-29030c549bae.1"
+        ],
+        "questionnaireToQuestionIdsMap": {},
+        "id": "f01aa00a-2615-45cf-8f31-8b7f377d8f1c",
+        "docsId": "d91a56ea-f0d0-4931-92e8-217f738e8fa5",
+        "status": "in-progress",
+        "dateModified": "2024-01-22T13:31:53.4819971+00:00",
+        "dateCreated": "2024-01-22T12:14:20.0499592+00:00",
+        "questionTotal": 65,
+        "questionTotalIndex": 31,
+        "questionsAnswered": 31,
+        "locale": "en-us",
+        "questionNotes": {
+          "eeb18ef1-b3e6-49d7-9da5-d5ff90a000e8.e45e3b92-b8f3-446e-9911-5a109c49dacf": "THANK YOU JESUS SON OF LIVING GOD ",
+          "eeb18ef1-b3e6-49d7-9da5-d5ff90a000e8.efd6ad4b-72d7-47c1-83d6-53a5e5692ae5": "THANK YOU JESUS SON OF LIVING GOD ",
+          "9047ab21-c7fc-4954-a2b4-49d0b7a92dfd.a80344d2-4eed-42b7-8b14-1ec2bae6154c": "JESUS SON OF LIVING GOD LOVE YOU ",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.6318fa8b-4f01-430d-9726-d2a9167e2569": "THANK YOU JESUS SON OF LIVING GOD ",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.c1fb793a-0e9a-4ad6-a628-d4cece3d656a": "THANK YOU JESUS SON OF LIVING GOD ",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.3d8c388e-e8a7-4395-a099-d7ba5f2d32ed": "THANK YOU JESUS SON OF LIVING GOD ",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.4135cbaa-752b-4589-9e9f-ac64e1513078": "THANK YOU JESUS SON OF LIVING GOD ",
+          "c897e2b4-87ca-40f1-ad3d-398579be05c7.92f97686-bcd6-418a-95e6-1dc5716b5e8f": "Heavenly Father, I'm so grateful for your willingness to come into my life and help me through every storm. I'm thankful for your strength and power, and I trust that you will never let me down. When storms come, I know I can always turn to you for help. So today, I'm asking you to help me find peace in my family, job, career, and education.And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm.As Christians, we have the power of faith to calm any storm that comes our way. Jesus showed us this by believing in his own power and commanding the storm to be still. We don't have to be afraid when life throws us a curveball, because Jesus is with us and has the power to stop it. When the storm came, the disciples of Jesus cried out to him for HELP ME AMEN. THANK YOU JESUS SON OF LIVING GOD "
+        },
+        "isLocked": false,
+        "wasAssessmentVersionUpdated": false
+      }
+    ],
+    "sessionProviderData": []
+  }
+}
