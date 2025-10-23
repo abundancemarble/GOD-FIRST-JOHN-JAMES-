@@ -1,6 +1,4 @@
-# GOD-FIRST-JOHN-JAMES-
-GOD-FIRST-JOHN-JAMES
-Skip to main content
+
 Legal, security, privacy and compliance
 SEARCH FORM
 Search
